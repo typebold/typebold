@@ -1,13 +1,44 @@
-### Olá 👋, eu sou o João Paulo
-#### Sou frontend developer há 4 anos.
-![Sou frontend developer há 4 anos.](https://xury.com.br/wp-content/uploads/2022/01/banner.jpg)
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jota Cruz</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=typebold&color=yellow" alt="Profile views" /> </p>
 
-Completamente apaixonado por tecnologia e sempre em busca de conhecimento. Natural da capital paulista. Estou em busca de novas oportunidades e desafios.
+- 🔥 I’m learning about javascript
 
-Skills: HTML / CSS / JAVASCRIPT / PHP
+- 🔭 I’m currently working at [Xury](https://xury.com.br)
 
-- 📫 Contato: jcruz@xury.com.br 
+- 👨‍💻 More at [jotacruz.dev](https://jotacruz.dev)
+<br><br>
+
+## Contact
+
+<a href="https://linkedin.com/in/userjotacruz" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-userjotacruz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-userjotacruz-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/userjotacruz" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-userjotacruz-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/typebold)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/type.bold)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://xury.com.br)  
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+
+<p align="left">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=typebold&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typebold&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
 
